@@ -1,0 +1,30 @@
+SHOPPING CART:
+A simple shopping cart application built in Python demonstrating core Object-Oriented Programming (OOP) concepts such as **abstraction, inheritance, polymorphism, and encapsulation**. The project includes different product types (Physical, Digital, and Grocery), each with its own pricing logic, and a shopping cart that calculates the total cost dynamically using polymorphism.
+
+### Features
+
+* 🛒 Add multiple products to a shopping cart
+* 📦 Physical products with shipping fees
+* 💻 Digital products with discount support
+* 🥗 Grocery products with tax calculation
+* 💰 Automatic total price calculation
+* 🏗️ Demonstrates Python OOP principles using abstract base classes
+
+### Technologies Used
+
+* Python 3
+* Object-Oriented Programming (OOP)
+* `abc` module (Abstract Base Classes)
+
+### Learning Objectives
+
+This project was created to practice:
+
+* Abstraction
+* Inheritance
+* Polymorphism
+* Encapsulation
+* Class design in Python
+
+
+> **A Python OOP-based Shopping Cart System demonstrating abstraction, inheritance, polymorphism, and encapsulation with multiple product types and dynamic price calculation.**
